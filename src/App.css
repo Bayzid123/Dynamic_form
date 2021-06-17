@@ -1,0 +1,14 @@
+form{
+  width: 100%;
+  margin: 50px;
+  justify-content: center;
+}
+.form label{
+  display: block;
+}
+.name,
+.email{
+  float: left;
+  margin-right: 10px;
+}
+
